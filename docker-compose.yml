@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  robot:
+    build: .
+    image: tests/robotframework 
